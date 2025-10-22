@@ -1,197 +1,403 @@
-<h1 align="center">Hi there, I'm Gopal Vijay Dose 👋</h1>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gopal%20Dose&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
+
+<div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Gopal+Dose+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast;3x+National+Hackathon+Winner+%F0%9F%8F%86;Building+Impactful+Solutions+%F0%9F%9A%80;Open+for+Collaborations!)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
-  <a href="https://github.com/GopalDose"><img src="https://img.shields.io/github/followers/GopalDose?label=Follow&style=social"></a>
-  <a href="https://linkedin.com/in/gopaldose21"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
-  <a href="mailto:gopaldose12345@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=GopalDose&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Problem+Solver+%F0%9F%A7%A9;AI%2FML+Enthusiast+%F0%9F%A4%96;Cloud+Developer+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver;3x+National+Hackathon+Winner" alt="Typing SVG" />
+  <a href="https://github.com/GopalDose?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/GopalDose?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/GopalDose?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/GopalDose?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <img src="https://komarev.com/ghpvc/?username=GopalDose&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="GopalDose" />
 </p>
 
----
+<br/>
 
 ## 🚀 About Me
 
-I'm a **Computer Engineering student** at **Pune Institute of Computer Technology** with a passion for building impactful solutions. Currently maintaining a **9.4 GPA**, I specialize in full-stack development, AI/ML applications, and creating scalable systems.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 **Currently Working:** Full-Stack Developer Intern at **Barclays**
-- 🌱 **Learning:** Advanced Spring Boot microservices, AI/ML integration in web applications
-- 🏆 **Achievements:** Winner of 3+ National Level Hackathons including COEP MindSpark, Synapse 2.0, DevKraft
-- 💼 **Experience:** Barclays | Catalyst Education | iNet Solutions
-- 📍 **Location:** Pune, Maharashtra, India
-- 💬 **Ask me about:** React.js, Next.js, Spring Boot, Flask, Machine Learning, System Design
-- 📫 **Reach me:** [gopaldose12345@gmail.com](mailto:gopaldose12345@gmail.com)
+```typescript
+const gopal = {
+  location: "Pune, India 🇮🇳",
+  currentFocus: "Building scalable AI-powered applications",
+  interests: ["Full-Stack Dev", "AI/ML", "Cloud Computing", "Open Source"],
+  challenge: "Building solutions that make a real impact",
+  funFact: "I turn coffee into code ☕ → 💻",
+  reachMe: "gopaldose12345@gmail.com",
 
----
+  achievements: {
+    hackathonWins: ["COEP MindSpark 🏆", "Synapse 2.0 🏆", "DevKraft 🏆"],
+    impact: {
+      farmersHelped: "500+",
+      usersServed: "1000+",
+      projectsBuilt: "15+"
+    }
+  },
 
-## 💼 Professional Experience
+  lifePhilosophy: "Code with purpose, build with passion! 💫"
+};
+```
 
-### 🏦 Barclays - Full-Stack Developer Intern
-**June 2025 – Aug 2025 | Pune, India**
-- Developed a **generic dashboard framework** using Next.js and Spring Boot microservices
-- Improved data access and rendering efficiency by **30%** through optimized service communication
-- Implemented role-based access controls and secure API integrations
-
-### 🎓 Catalyst Education Consultancy - Web Developer Intern
-**Sept 2023 – April 2024 | Pune, India**
-- Increased contact form submissions by **40%** and reduced data processing time by **65%**
-- Optimized website loading speed by **60%** through lazy loading and image optimization
-- Deployed backend system processing **200+ monthly inquiries**
-
-### 📱 iNet Solutions - Android Developer Intern
-**Jan 2023 – Feb 2023 | Kolhapur, India**
-- Built attendance tracking app serving **500+ users** with **98% adoption rate**
-- Reduced manual processing time by **75%** through backend integration
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+## 💻 Tech Universe
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+### 🎨 Frontend Magic
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,materialui,redux&theme=dark" />
+</p>
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### ⚙️ Backend Powerhouse
 
-### AI/ML & Tools
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask,dotnet,fastapi&theme=dark" />
+</p>
 
----
+### 🗄️ Database & Storage
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis,firebase&theme=dark" />
+</p>
+
+### 🤖 AI/ML & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,dart,kotlin&theme=dark" />
+</p>
+
+### ☁️ DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,nginx,aws&theme=dark" />
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,notion,vercel,netlify&theme=dark" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🎯 Featured Projects
 
-### 🌾 [Shetniyojan – Smart Farming Solution](https://github.com/GopalDose)
-**Tech Stack:** React.js, Flask, MongoDB, Machine Learning
-- End-to-end smart farming platform with **crop recommendation** and **smart irrigation**
-- Serving **500+ farmers** with **45% increase** in crop planning efficiency
-- Reduced water usage by **30%** through ML-driven decision support
+<div align="center">
 
-### ⚖️ [LegiFy – AI-Powered Legal Assistant](https://github.com/GopalDose)
-**Tech Stack:** React.js, Python, FAISS, SQLite, NER
-- AI tool for legal document summarization with key clause extraction
-- Real-time Q&A using **RAG** supporting **10+ languages**
-- Keyword highlighting and multilingual support
+<a href="https://github.com/GopalDose">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GopalDose&repo=Shetniyojan&theme=tokyonight&hide_border=true&border_radius=10" />
+</a>
 
-### 📰 [WarCast – AI News Aggregator](https://github.com/GopalDose)
-**Tech Stack:** React.js, Flask, MongoDB, NLP
-- Processing **100+ articles daily** with **85% sentiment analysis accuracy**
-- Automated scraping and classification into 5 geopolitical categories
-- Real-time news updates with intelligent categorization
+</div>
 
-### 📋 [FLOW – Task Management Platform](https://github.com/GopalDose)
-**Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- Real-time task management with **99% uptime**
-- Supporting **50+ active users** with collaboration tools
-- Increased team productivity by **40%**
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
----
+### 🌾 Shetniyojan - Smart Farming
+**AI-Powered Agricultural Solution**
+
+🎯 **Impact:** Helping 500+ farmers optimize crop planning
+
+**Key Features:**
+- 🤖 ML-based crop recommendations
+- 💧 Smart irrigation suggestions (30% water savings)
+- 📊 Real-time farming analytics
+- 📈 45% increase in planning efficiency
+
+**Tech Stack:**
+`React.js` `Flask` `MongoDB` `Machine Learning` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚖️ LegiFy - AI Legal Assistant
+**Intelligent Document Analysis**
+
+🎯 **Impact:** Streamlining legal document processing
+
+**Key Features:**
+- 📄 Smart document summarization
+- 🔍 NER-powered clause extraction
+- 💬 RAG-based Q&A system
+- 🌐 10+ language support
+
+**Tech Stack:**
+`React.js` `Python` `FAISS` `NLP` `SQLite`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📰 WarCast - News Intelligence
+**AI-Powered News Aggregator**
+
+🎯 **Impact:** Processing 100+ articles daily
+
+**Key Features:**
+- 📊 85% sentiment analysis accuracy
+- 🤖 Automated content classification
+- 🗺️ Geopolitical categorization
+- ⚡ Real-time news updates
+
+**Tech Stack:**
+`React.js` `Flask` `MongoDB` `NLP` `Web Scraping`
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 FLOW - Task Management
+**Real-Time Collaboration Platform**
+
+🎯 **Impact:** Supporting 50+ active users
+
+**Key Features:**
+- ⚡ 99% uptime reliability
+- 👥 Real-time collaboration
+- 📊 40% productivity boost
+- 🔔 Smart notifications
+
+**Tech Stack:**
+`MERN Stack` `Socket.io` `Redux` `JWT`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+  ### 🎨 More Amazing Projects
+
+  <a href="https://github.com/GopalDose?tab=repositories">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Explore%20All%20Projects-blueviolet?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🏆 Achievements & Honors
 
-### 🥇 National Level
-- 🏆 **Winner** - COEP MindSpark at College of Engineering, Pune (COEP)
-- 🏆 **Winner** - Synapse 2.0 ML Hackathon at MKSSS's Cummins College of Engineering
-- 🏆 **Winner** - DevKraft at DY Patil College of Engineering, Pimpri
+<div align="center">
 
-### 🥈 State Level
-- 🥇 **First Prize** - Web Development Competition at Government Polytechnic, Kolhapur (Multiple Times)
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" width="100"/>
+<br/><br/>
+<b>🥇 COEP MindSpark</b>
+<br/>
+<sub>National Level Winner</sub>
+<br/>
+<sub>College of Engineering, Pune</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216655817-ece3c4e7-4986-4243-9127-788f03ef5e14.gif" width="100"/>
+<br/><br/>
+<b>🥇 Synapse 2.0</b>
+<br/>
+<sub>ML Hackathon Winner</sub>
+<br/>
+<sub>MKSSS's Cummins College</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216655814-9e86e34b-3a5a-4b42-84b8-d0baff1a3c8f.gif" width="100"/>
+<br/><br/>
+<b>🥇 DevKraft</b>
+<br/>
+<sub>National Level Winner</sub>
+<br/>
+<sub>DY Patil College of Engineering</sub>
+</td>
+</tr>
+</table>
 
----
+### 📊 Impact Metrics
 
-## 📊 GitHub Statistics
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/emoji/96/000000/fire.png" width="50"/>
+<br/>
+<b>500+</b>
+<br/>
+<sub>Farmers Helped</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/emoji/96/000000/rocket-emji.png" width="50"/>
+<br/>
+<b>1000+</b>
+<br/>
+<sub>Users Served</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/emoji/96/000000/trophy-emoji.png" width="50"/>
+<br/>
+<b>3x</b>
+<br/>
+<sub>National Winner</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/emoji/96/000000/laptop-emoji.png" width="50"/>
+<br/>
+<b>15+</b>
+<br/>
+<sub>Projects Built</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/emoji/96/000000/chart-increasing-emoji.png" width="50"/>
+<br/>
+<b>75%</b>
+<br/>
+<sub>Max Efficiency Gain</sub>
+</td>
+</tr>
+</table>
 
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GopalDose&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Gopal Dose github stats" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=GopalDose&theme=tokyonight&hide_border=true&stroke=0d1117&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GopalDose&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FFFFFF&hide_border=true&area=true&area_color=6C63FF" width="98%"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GopalDose&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GopalDose&theme=tokyonight&utcOffset=5.30" />
+</div>
+
+<details align="center">
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GopalDose&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GopalDose&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=GopalDose&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
 </p>
+</details>
 
+<details align="center">
+<summary><b>📈 Contribution Snake</b></summary>
+<br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GopalDose&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github.com/GopalDose/GopalDose/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
+</details>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 📈 Contribution Graph
+## 🌟 What I'm Up To
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GopalDose&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-143a1811-015d-45aa-877f-fc7c6ab98770.gif" width="300">
 
----
+```javascript
+currentlyWorkingOn: {
+  🔨 "Building scalable microservices with Spring Boot",
+  🤖 "Exploring advanced AI/ML applications",
+  ☁️  "Learning cloud architecture & DevOps",
+  🌐 "Contributing to open-source projects",
+  📚 "Mastering system design patterns"
+}
 
-## 🎓 Education
+openTo: {
+  💼 "Full-time opportunities",
+  🤝 "Exciting collaborations",
+  🎯 "Freelance projects",
+  📖 "Knowledge sharing & mentorship",
+  🚀 "Open-source contributions"
+}
 
-**🏛️ Pune Institute of Computer Technology, Pune**
-Bachelor of Engineering in Computer Engineering | Aug 2023 – July 2026
-📊 **Current GPA: 9.4/10**
+goals2025: {
+  ✅ "Build 5 production-ready AI projects",
+  ✅ "Contribute to 10+ open-source repos",
+  ✅ "Win more hackathons",
+  ✅ "Help 1000+ users with my projects"
+}
+```
 
-**🏛️ Government Polytechnic, Kolhapur**
-Diploma in Information Technology | Dec 2020 – Aug 2023
-📊 **Percentage: 96.53%**
+<br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 💡 What I'm Working On
+## 💬 Random Dev Quote
 
-- 🔨 Building scalable microservices architecture at Barclays
-- 🤖 Exploring advanced AI/ML applications in real-world scenarios
-- 🌐 Contributing to open-source projects
-- 📚 Deepening knowledge in system design and cloud technologies
+<div align="center">
 
----
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🤝 Let's Connect!
 
-<p align="center">
-  <a href="https://linkedin.com/in/gopaldose21">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:gopaldose12345@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/GopalDose">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<div align="center">
 
----
+<a href="https://linkedin.com/in/gopaldose21">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:gopaldose12345@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/GopalDose">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<br/><br/>
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/GopalDose">GopalDose</a> - Let's build something amazing together!</i>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="200" />
+
+### 💡 "Building the future, one commit at a time!"
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<br/><br/>
+
+**Open for collaboration and exciting opportunities!**
+
+Let's build something amazing together! 🚀
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+</div>
