@@ -37,9 +37,7 @@ const gopal = {
 
   achievements: {
     hackathonWins: ["COEP MindSpark 🏆", "Synapse 2.0 🏆", "DevKraft 🏆"],
-    impact: {
-      farmersHelped: "500+",
-      usersServed: "1000+",
+    impact: {,
       projectsBuilt: "15+"
     }
   },
@@ -67,28 +65,20 @@ const gopal = {
 ### ⚙️ Backend Powerhouse
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask,dotnet,fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask,fastapi&theme=dark" />
 </p>
 
 ### 🗄️ Database & Storage
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite&theme=dark" />
 </p>
 
-### 🤖 AI/ML & Data Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
 
 ### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,dart,kotlin&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,dart&theme=dark" />
 </p>
 
 ### ☁️ DevOps & Cloud
@@ -111,89 +101,181 @@ const gopal = {
 
 <div align="center">
 
-<a href="https://github.com/GopalDose">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GopalDose&repo=Shetniyojan&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-</div>
-
-<table align="center">
+<!-- Project Cards -->
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
+<br/>
+<p align="center">
+  <a href="https://github.com/GopalDose">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GopalDose&repo=Shetniyojan&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+  </a>
+</p>
 
-### 🌾 Shetniyojan - Smart Farming
-**AI-Powered Agricultural Solution**
+<h3 align="center">🌾 Shetniyojan</h3>
+<p align="center"><i>Smart Farming Solution</i></p>
 
-🎯 **Impact:** Helping 500+ farmers optimize crop planning
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+</p>
+
+<p align="center">
+AI-powered platform helping <b>500+ farmers</b> optimize crop planning with ML-based recommendations and smart irrigation
+</p>
+
+<details align="center">
+<summary>📊 Impact & Features</summary>
+<br/>
+
+**Impact Metrics:**
+- 🎯 500+ farmers actively using the platform
+- 💧 30% reduction in water usage
+- 📈 45% increase in planning efficiency
 
 **Key Features:**
 - 🤖 ML-based crop recommendations
-- 💧 Smart irrigation suggestions (30% water savings)
+- 💧 Smart irrigation suggestions
 - 📊 Real-time farming analytics
-- 📈 45% increase in planning efficiency
+- 📱 Mobile-responsive interface
 
-**Tech Stack:**
-`React.js` `Flask` `MongoDB` `Machine Learning` `Python`
-
+</details>
+<br/>
 </td>
-<td width="50%" valign="top">
 
-### ⚖️ LegiFy - AI Legal Assistant
-**Intelligent Document Analysis**
+<td width="50%">
+<br/>
+<p align="center">
+  <a href="https://github.com/GopalDose">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GopalDose&repo=LegiFy&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+  </a>
+</p>
 
-🎯 **Impact:** Streamlining legal document processing
+<h3 align="center">⚖️ LegiFy</h3>
+<p align="center"><i>AI Legal Assistant</i></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-00ADD8?style=flat&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+</p>
+
+<p align="center">
+Intelligent document analyzer with NER-powered clause extraction and RAG-based Q&A in <b>10+ languages</b>
+</p>
+
+<details align="center">
+<summary>📊 Impact & Features</summary>
+<br/>
+
+**Impact Metrics:**
+- 📄 Streamlining legal document processing
+- 🌐 Supporting 10+ languages
+- ⚡ Real-time analysis and insights
 
 **Key Features:**
 - 📄 Smart document summarization
 - 🔍 NER-powered clause extraction
 - 💬 RAG-based Q&A system
-- 🌐 10+ language support
+- 🌐 Multilingual support
 
-**Tech Stack:**
-`React.js` `Python` `FAISS` `NLP` `SQLite`
-
+</details>
+<br/>
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
+<br/>
+<p align="center">
+  <a href="https://github.com/GopalDose">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GopalDose&repo=WarCast&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+  </a>
+</p>
 
-### 📰 WarCast - News Intelligence
-**AI-Powered News Aggregator**
+<h3 align="center">📰 WarCast</h3>
+<p align="center"><i>News Intelligence Platform</i></p>
 
-🎯 **Impact:** Processing 100+ articles daily
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+</p>
+
+<p align="center">
+AI-powered news aggregator processing <b>100+ articles daily</b> with 85% sentiment analysis accuracy
+</p>
+
+<details align="center">
+<summary>📊 Impact & Features</summary>
+<br/>
+
+**Impact Metrics:**
+- 📰 100+ articles processed daily
+- 📊 85% sentiment analysis accuracy
+- 🔍 5 geopolitical categories
 
 **Key Features:**
-- 📊 85% sentiment analysis accuracy
 - 🤖 Automated content classification
 - 🗺️ Geopolitical categorization
 - ⚡ Real-time news updates
+- 📈 Sentiment trend analysis
 
-**Tech Stack:**
-`React.js` `Flask` `MongoDB` `NLP` `Web Scraping`
-
+</details>
+<br/>
 </td>
-<td width="50%" valign="top">
 
-### 📋 FLOW - Task Management
-**Real-Time Collaboration Platform**
+<td width="50%">
+<br/>
+<p align="center">
+  <a href="https://github.com/GopalDose">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GopalDose&repo=FLOW&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
+  </a>
+</p>
 
-🎯 **Impact:** Supporting 50+ active users
+<h3 align="center">📋 FLOW</h3>
+<p align="center"><i>Task Management Platform</i></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
+</p>
+
+<p align="center">
+Real-time collaboration platform with <b>99% uptime</b> supporting 50+ active users
+</p>
+
+<details align="center">
+<summary>📊 Impact & Features</summary>
+<br/>
+
+**Impact Metrics:**
+- 👥 50+ active users
+- ⚡ 99% uptime reliability
+- 📊 40% productivity boost
 
 **Key Features:**
-- ⚡ 99% uptime reliability
 - 👥 Real-time collaboration
-- 📊 40% productivity boost
 - 🔔 Smart notifications
+- 📊 Advanced analytics
+- 🔐 Secure authentication
 
-**Tech Stack:**
-`MERN Stack` `Socket.io` `Redux` `JWT`
-
+</details>
+<br/>
 </td>
 </tr>
 </table>
 
+</div>
+
 <div align="center">
+<br/>
 
   ### 🎨 More Amazing Projects
 
